@@ -141,13 +141,6 @@ p {
   color: var(--gray);
 }
 
-.grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-  gap: 30px;
-  margin-top: 30px;
-}
-
 .item {
   background-color: var(--white);
   padding: 30px;
