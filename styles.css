@@ -228,18 +228,19 @@ footer {
   color: var(--white);
 }
 
-.copyright {
+.footer-text {
   max-width: 1200px;
   margin: 0 auto;
   text-align: center;
   padding-top: 30px;
+  padding-left: 50px;
   margin-top: 30px;
   border-top: 1px solid rgba(255,255,255,0.1);
   color: rgba(255,255,255,0.5);
   font-size: 0.9rem;
 }
 
-/* Button styles */
+
 .btn {
   display: inline-block;
   padding: 12px 25px;
